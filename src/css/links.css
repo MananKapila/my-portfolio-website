@@ -1,0 +1,10 @@
+.link {
+    text-decoration: none;
+    color: blue;
+    transition: all 0.3s ease;
+}
+  
+.link:hover {
+    text-decoration: underline;
+    color: darkblue;
+}
